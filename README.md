@@ -72,7 +72,7 @@ void loop() {
 - Implement **audio-reactive LED patterns**
 
 ## Author
-Designed by **[Your Name]** | Contact: **[Your Email]**
+Designed by **[Tridhatri, Adarsh]** | Contact: **[adarshagrawal.231ee102@nitk.edu.in]**
 
 ## License
 This project is **open-source** and can be freely modified and shared.
