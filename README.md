@@ -77,5 +77,10 @@ Designed by **[Your Name]** | Contact: **[Your Email]**
 ## License
 This project is **open-source** and can be freely modified and shared.
 
-## Layers
+## Layers and Components
 ![Image](https://github.com/user-attachments/assets/1ff64001-f257-43d8-9498-56b94779b121)
+![Image](https://github.com/user-attachments/assets/13ef7eb2-01d3-4af6-b908-a32bc13ced94)
+![Image](https://github.com/user-attachments/assets/be913dc1-1ab1-4a0b-a1bd-eac92175a295)
+![Image](https://github.com/user-attachments/assets/d5950469-967b-4967-8458-ff56c951a1cb)
+![Image](https://github.com/user-attachments/assets/9c05bcf7-2323-4582-b380-a74d3ef144da)
+![Image](https://github.com/user-attachments/assets/d0bfbe5f-74c1-4710-b14b-97c70bcc2f79)
